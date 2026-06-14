@@ -12,7 +12,7 @@ Welcome to Nauta. Nauta is a Discord bot that provides several features such as 
 
 We collect the following Discord-related data:
 
-> User: id and username.
+> User: id
 >
 For Discord interaction and database purposes
 > Guild: id

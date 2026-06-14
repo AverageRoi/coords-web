@@ -4,7 +4,7 @@ export default defineThemeConfig({
   site: 'https://nordlys.fjelloverflow.dev',
   title: 'Coords',
   description: 'The web for the Coords Discord bot',
-  author: 'Lireo & Pipo',
+  author: 'Average & Pipo',
   navbarItems: [
     { label: 'Blog', href: '/posts/' },
     { label: 'Projects', href: '/projects/' },
