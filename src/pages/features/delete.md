@@ -35,7 +35,7 @@ Remove a saved coordinate data from your server's stored data. You can use this 
     />
     <div>
       <div>
-        <span class="font-semibold text-white">Average</span>
+        <span class="font-semibold text-white">Trobbio</span>
         <span class="ml-1 text-xs text-[#949ba4]">18:48</span>
       </div>
       <div class="mt-1 rounded-md bg-[#2b2d31] px-3 py-2">/delete alias: Nether portal</div>
