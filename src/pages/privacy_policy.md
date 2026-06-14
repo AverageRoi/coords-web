@@ -6,7 +6,7 @@ activeHeaderLink: Privacy Policy
 
 # Privacy Policy
 
-Last updated and effective: June 14, 2026
+Last updated and effective: June 15, 2026
 
 Nauta is a Discord bot for Minecraft communities that helps servers store, organize, fetch, and calculate coordinates. This Privacy Policy explains what data Nauta collects, why we collect it, how we use it, and how you can request deletion.
 
