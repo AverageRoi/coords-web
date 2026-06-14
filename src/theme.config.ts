@@ -2,8 +2,8 @@ import { defineThemeConfig } from './types'
 
 export default defineThemeConfig({
   site: 'https://nordlys.fjelloverflow.dev',
-  title: 'Coords',
-  description: 'The web for the Coords Discord bot',
+  title: 'Nauta',
+  description: 'The web for the Nauta Discord bot',
   author: 'Average & Pipo',
   navbarItems: [
     { label: 'Terms of Service', href: '/tos/' },

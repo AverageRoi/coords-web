@@ -1,5 +1,5 @@
 ---
-title: Coords Bot
+title: Nauta Bot
 url: https://github.com/FjellOverflow/nordlys
 startDate: 2024-09-30
 tags:
