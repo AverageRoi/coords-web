@@ -54,7 +54,7 @@ Remove a saved coordinate data from your server's stored data. You can use this 
         <span class="ml-1 rounded bg-[#5865f2] px-1 text-[10px] font-semibold text-white">App</span>
         <span class="ml-1 text-xs text-[#949ba4]">Today at 18:48</span>
       </div>
-          <div><span class="font-semibold text-[#b5bac1]">Alias</span><br />Nether portal</div>
+          <div><br />"Nether portal" deleted</div>
         </div>
       </div>
     </div>
