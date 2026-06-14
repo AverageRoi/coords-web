@@ -6,8 +6,6 @@ export default defineThemeConfig({
   description: 'The web for the Coords Discord bot',
   author: 'Average & Pipo',
   navbarItems: [
-    { label: 'Blog', href: '/posts/' },
-    { label: 'Projects', href: '/projects/' },
     { label: 'Terms of Service', href: '/tos/' },
     { label: 'Privacy Policy', href: '/privacy_policy/' },
     { label: 'About', href: '/about/' },
