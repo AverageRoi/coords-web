@@ -41,7 +41,11 @@ Browse the coordinates saved for a Discord server. You can use this to quickly r
   </div>
 
   <div class="mt-4 flex gap-3">
-    <div class="flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-[#23a559] font-semibold text-white">N</div>
+    <img
+      class="h-10 w-10 shrink-0 rounded-full object-cover"
+      src="https://cdn.discordapp.com/avatars/1515786853356277820/b2b885ed92e1845f6c3d893ff61509dc.webp?size=1024"
+      alt="Nauta avatar"
+    />
     <div class="min-w-0">
       <div>
         <span class="font-semibold text-white">Nauta</span>

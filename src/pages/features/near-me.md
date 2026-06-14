@@ -32,7 +32,11 @@ Find the saved coordinates closest to a position. You can use this when you are 
 <div class="not-prose rounded-md border border-[#3f4147] bg-[#313338] p-4 text-sm text-[#dbdee1]">
   <div class="mb-3 text-xs font-semibold uppercase text-[#b5bac1]"># coordinates</div>
   <div class="flex gap-3">
-    <div class="flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-[#5865f2] font-semibold text-white">A</div>
+    <img
+      class="h-10 w-10 shrink-0 rounded-full object-cover"
+      src="https://preview.redd.it/the-new-discord-default-profile-pictures-v0-uqvmqo1cdj7f1.png?width=1024&amp;format=png&amp;auto=webp&amp;s=8cfc3d1836ac0b79e2ccabd65a9010da1eed29d7"
+      alt="Average avatar"
+    />
     <div>
       <div>
         <span class="font-semibold text-white">Average</span>
@@ -43,7 +47,11 @@ Find the saved coordinates closest to a position. You can use this when you are 
   </div>
 
   <div class="mt-4 flex gap-3">
-    <div class="flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-[#23a559] font-semibold text-white">N</div>
+    <img
+      class="h-10 w-10 shrink-0 rounded-full object-cover"
+      src="https://cdn.discordapp.com/avatars/1515786853356277820/b2b885ed92e1845f6c3d893ff61509dc.webp?size=1024"
+      alt="Nauta avatar"
+    />
     <div class="min-w-0">
       <div>
         <span class="font-semibold text-white">Nauta</span>
