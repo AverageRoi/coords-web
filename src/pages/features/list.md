@@ -52,7 +52,7 @@ Browse the coordinates saved for a Discord server. You can use this to quickly r
         <span class="ml-1 rounded bg-[#5865f2] px-1.5 py-0.5 text-[10px] font-bold leading-none text-white">APP</span>
         <span class="ml-1 text-xs text-[#949ba4]">0:55</span>
       </div>
-      <div class="mt-2 rounded-md border-l-4 border-[#57f287] bg-[#111214] p-5 shadow-sm">
+      <div class="mt-2 rounded-md border border-l-4 border-[#3f4147] border-l-[#57f287] bg-[#2b2d31] p-5 shadow-sm">
         <div class="flex flex-col gap-4 sm:flex-row sm:items-start">
           <div class="min-w-0 flex-1">
             <div class="text-xl font-bold text-white">Overworld coordinates</div>
@@ -64,53 +64,34 @@ Browse the coordinates saved for a Discord server. You can use this to quickly r
             alt="Minecraft Overworld landscape"
           />
         </div>
-
         <div class="mt-5 grid gap-x-4 gap-y-4 sm:grid-cols-2 md:grid-cols-3">
           <div class="min-w-0">
             <div class="break-words text-lg font-bold text-white">PruebaCercaMedio2</div>
-            <div class="mt-1 inline-block max-w-full rounded-md bg-[#383a40] px-2 py-1 font-mono text-base leading-none text-white">
-              123, ?, 240
-            </div>
+            <div class="mt-1 inline-block max-w-full rounded-md border border-[#4e5058] bg-[#2b2d31] px-2 py-1 font-mono text-base leading-none text-white">123, ?, 240</div>
           </div>
           <div class="min-w-0">
             <div class="break-words text-lg font-bold text-white">PruebaLejos</div>
-            <div class="mt-1 inline-block max-w-full rounded-md bg-[#383a40] px-2 py-1 font-mono text-base leading-none text-white">
-              10000, 50, 10000
-            </div>
+            <div class="mt-1 inline-block max-w-full rounded-md border border-[#4e5058] bg-[#2b2d31] px-2 py-1 font-mono text-base leading-none text-white">10000, 50, 10000</div>
           </div>
           <div class="min-w-0">
             <div class="break-words text-lg font-bold text-white">PruebaconNether</div>
-            <div class="mt-1 inline-block max-w-full rounded-md bg-[#383a40] px-2 py-1 font-mono text-base leading-none text-white">
-              1000, ?, 1000
-            </div>
+            <div class="mt-1 inline-block max-w-full rounded-md border border-[#4e5058] bg-[#2b2d31] px-2 py-1 font-mono text-base leading-none text-white">1000, ?, 1000</div>
           </div>
           <div class="min-w-0">
             <div class="break-words text-lg font-bold text-white">PruebaconNether</div>
-            <div class="mt-1 inline-block max-w-full rounded-md bg-[#383a40] px-2 py-1 font-mono text-base leading-none text-white">
-              1000, ?, 1000
-            </div>
+            <div class="mt-1 inline-block max-w-full rounded-md border border-[#4e5058] bg-[#2b2d31] px-2 py-1 font-mono text-base leading-none text-white">1000, ?, 1000</div>
           </div>
           <div class="min-w-0">
             <div class="break-words text-lg font-bold text-white">Test1</div>
-            <div class="mt-1 inline-block max-w-full rounded-md bg-[#383a40] px-2 py-1 font-mono text-base leading-none text-white">
-              30, ?, 20
-            </div>
+            <div class="mt-1 inline-block max-w-full rounded-md border border-[#4e5058] bg-[#2b2d31] px-2 py-1 font-mono text-base leading-none text-white">30, ?, 20</div>
           </div>
         </div>
-
         <div class="mt-5 text-base font-semibold text-white">5 coordinates registered &bull; hoy a las 0:55</div>
       </div>
-
       <div class="mt-2 flex flex-wrap gap-3">
-        <button type="button" class="rounded-md bg-[#2f6f55] px-5 py-3 text-base font-bold text-[#dbdee1]">
-          Overworld
-        </button>
-        <button type="button" class="rounded-md bg-[#a12d2f] px-5 py-3 text-base font-bold text-white">
-          Nether
-        </button>
-        <button type="button" class="rounded-md bg-[#4e5058] px-5 py-3 text-base font-bold text-[#dbdee1]">
-          End
-        </button>
+        <button type="button" class="rounded-md bg-[#2f6f55] px-5 py-3 text-base font-bold text-[#dbdee1]">Overworld</button>
+        <button type="button" class="rounded-md bg-[#a12d2f] px-5 py-3 text-base font-bold text-white">Nether</button>
+        <button type="button" class="rounded-md bg-[#4e5058] px-5 py-3 text-base font-bold text-[#dbdee1]">End</button>
       </div>
     </div>
   </div>

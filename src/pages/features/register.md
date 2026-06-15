@@ -55,13 +55,10 @@ Save a new coordinate so the server can find it later. You can use this for base
         <span class="ml-1 rounded bg-[#5865f2] px-1.5 py-0.5 text-[10px] font-bold leading-none text-white">APP</span>
         <span class="ml-1 text-xs text-[#949ba4]">Today at 18:45</span>
       </div>
-      <div class="mt-2 rounded-md border-l-4 border-[#57f287] bg-[#2b2d31] p-3">
-        <div class="font-semibold text-white">Coordinate registered</div>
-        <div class="mt-2 grid gap-2 sm:grid-cols-2">
-          <div><span class="font-semibold text-[#b5bac1]">Alias</span><br />iron-farm</div>
-          <div><span class="font-semibold text-[#b5bac1]">Dimension</span><br />Overworld</div>
-          <div><span class="font-semibold text-[#b5bac1]">Coordinates</span><br />X: 420, Y: 72, Z: -128</div>
-        </div>
+      <div class="mt-1 text-[#dbdee1]">Your coordinate has been registered!</div>
+      <div class="mt-2 flex items-center gap-2 text-xs text-[#949ba4]">
+        <span class="flex h-4 w-4 items-center justify-center rounded-full border border-[#949ba4] text-[10px] font-semibold leading-none">i</span>
+        <span>Only you can see this</span>
       </div>
     </div>
   </div>

@@ -57,7 +57,7 @@ Find the saved coordinates closest to a position. You can use this when you are 
         <span class="ml-1 rounded bg-[#5865f2] px-1.5 py-0.5 text-[10px] font-bold leading-none text-white">APP</span>
         <span class="ml-1 text-xs text-[#949ba4]">13:21</span>
       </div>
-      <div class="mt-2 rounded-md border-l-4 border-[#57f287] bg-[#111214] p-5 shadow-sm">
+      <div class="mt-2 rounded-md border border-l-4 border-[#3f4147] border-l-[#57f287] bg-[#2b2d31] p-5 shadow-sm">
         <div class="text-xl font-bold text-white">Nearby Coordinates</div>
         <div class="mt-4 text-lg text-white">
           Showing coordinates within <span class="font-bold">500 blocks</span> of your location
@@ -65,7 +65,7 @@ Find the saved coordinates closest to a position. You can use this when you are 
         <div class="mt-5">
           <div class="text-lg font-bold text-white">Overworld</div>
           <div class="mt-2 text-lg font-bold text-white">Test1</div>
-          <div class="mt-1 inline-block rounded-md bg-[#383a40] px-2 py-1 font-mono text-lg leading-none text-white">
+          <div class="mt-1 inline-block rounded-md border border-[#4e5058] bg-[#2b2d31] px-2 py-1 font-mono text-lg leading-none text-white">
             30, ?, 20
           </div>
         </div>
