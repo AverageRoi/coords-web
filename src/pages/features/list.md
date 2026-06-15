@@ -28,10 +28,14 @@ No fields
 <div class="not-prose rounded-md border border-[#3f4147] bg-[#313338] p-4 text-sm text-[#dbdee1]">
   <div class="mb-3 text-xs font-semibold uppercase text-[#b5bac1]"># coordinates</div>
   <div class="flex gap-3">
-    <div class="flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-[#5865f2] font-semibold text-white">P</div>
+    <img
+      class="h-10 w-10 shrink-0 rounded-full object-cover"
+      src="https://preview.redd.it/the-new-discord-default-profile-pictures-v0-8ugv2z5fdj7f1.png?width=1024&amp;format=png&amp;auto=webp&amp;s=bab64648e45267e8b40a8ff3b95a7762ae31e742"
+      alt="Jake avatar"
+    />
     <div>
       <div>
-        <span class="font-semibold text-white">Pipo</span>
+        <span class="font-semibold text-white">Jake</span>
         <span class="ml-1 text-xs text-[#949ba4]">0:55</span>
       </div>
       <div class="mt-1 rounded-md bg-[#2b2d31] px-3 py-2">/list dimension: Overworld</div>

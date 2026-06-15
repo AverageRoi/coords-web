@@ -30,10 +30,14 @@ Save a new coordinate so the server can find it later. You can use this for base
 <div class="not-prose rounded-md border border-[#3f4147] bg-[#313338] p-4 text-sm text-[#dbdee1]">
   <div class="mb-3 text-xs font-semibold uppercase text-[#b5bac1]"># coordinates</div>
   <div class="flex gap-3">
-    <div class="flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-[#5865f2] font-semibold text-white">P</div>
+    <img
+      class="h-10 w-10 shrink-0 rounded-full object-cover"
+      src="https://preview.redd.it/the-new-discord-default-profile-pictures-v0-tbhgxr7adj7f1.png?width=1024&amp;format=png&amp;auto=webp&amp;s=681455786feb3bb43479cc5d684dd3a3ff664a20"
+      alt="John avatar"
+    />
     <div>
       <div>
-        <span class="font-semibold text-white">Pipo</span>
+        <span class="font-semibold text-white">John</span>
         <span class="ml-1 text-xs text-[#949ba4]">18:45</span>
       </div>
       <div class="mt-1 rounded-md bg-[#2b2d31] px-3 py-2">/register coordinates: 1230, 82, 863 dimension: Overworld alias: Iron Farm</div>

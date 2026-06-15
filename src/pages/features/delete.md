@@ -31,7 +31,7 @@ Remove a saved coordinate data from your server's stored data. You can use this 
     <img
       class="h-10 w-10 shrink-0 rounded-full object-cover"
       src="https://preview.redd.it/the-new-discord-default-profile-pictures-v0-uqvmqo1cdj7f1.png?width=1024&amp;format=png&amp;auto=webp&amp;s=8cfc3d1836ac0b79e2ccabd65a9010da1eed29d7"
-      alt="Average avatar"
+      alt="Trobbio avatar"
     />
     <div>
       <div>
